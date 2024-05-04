@@ -2,7 +2,7 @@
 
 I'm a freelance management consultant. I work on corporate strategy and operations improvement. My work is focussed on organisation, process and business systems. I'm also interested in technology and writing. My github is mostly learning and experimental projects.
 
-![dearestalexander's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![dearestalexander's Stats](https://github-readme-stats.vercel.app/api?username=dearestalexander&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🔭 I’m currently working on ...
 - Recently started freeCodeCamp. Currently working through the responsive web design course. It's quite enjoyable.
@@ -36,6 +36,6 @@ I'm a freelance management consultant. I work on corporate strategy and operatio
 
 ## My Articles
 
-- A quick reference for freeCodeCamp's responsive web design course - [page]((https://raw.githack.com/dearestalexander/RWBQuickRef/main/rwb.html)
+- A quick reference for freeCodeCamp's responsive web design course - [page](https://raw.githack.com/dearestalexander/RWBQuickRef/main/rwb.html)
 - An introduction to SAP HANA and SAP S/4 HANA - [article](https://alexroan.com/2020/06/03/sap-hana-and-s-4hana/)
 
